@@ -285,7 +285,7 @@ export default function LinkInBio() {
         {/* 4. FOOTER                                                         */}
         {/* ================================================================= */}
         <footer className="w-full text-center text-xs text-[#b3a897] font-medium tracking-wide pb-8 pt-1">
-          <p>© {currentYear} {profile.name}</p>
+          <p>© {currentYear} TRAIN BEYOND LIMITS </p>
         </footer>
 
       </div>
