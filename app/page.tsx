@@ -28,7 +28,7 @@ const profile = {
 
 const links: LinkItem[] = [
   {
-    title: "TRAIN WITH ME  ",
+    title: "TRAIN WITH ME",
     description: "",
     href: "https://khairyfitness.vercel.app/",
   },
