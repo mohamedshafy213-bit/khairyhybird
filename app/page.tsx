@@ -30,7 +30,7 @@ const links: LinkItem[] = [
   {
     title: "TRAIN WITH ME  ",
     description: "",
-    href: "https://wa.me/message/OW7BVKQQEABYK1",
+    href: "https://khairyfitness.vercel.app/",
   },
   {
     title: "Shop KGoing",
